@@ -1,5 +1,5 @@
 # UT6.- Control de Versiones
-Práctica Github individual de Despliegue de aplicaciones web
+Práctica GitHub individual de Despliegue de aplicaciones web
 
 ## Hecho con
 * [CSS3](https://developer.mozilla.org/es/docs/Archive/CSS3) - **52,70%**
